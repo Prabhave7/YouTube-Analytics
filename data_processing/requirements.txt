@@ -5,3 +5,5 @@ python-dotenv
 SQLAlchemy
 google-api-python-client
 plotly
+isodate
+mysql-connector-python
