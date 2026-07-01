@@ -1,0 +1,7 @@
+pandas
+streamlit
+streamlit-option-menu
+python-dotenv
+SQLAlchemy
+google-api-python-client
+plotly
